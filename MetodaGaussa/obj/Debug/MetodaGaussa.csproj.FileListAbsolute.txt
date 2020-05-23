@@ -1,0 +1,6 @@
+C:\Users\dawci\Desktop\MetodaGaussa\bin\Debug\MetodaGaussa.exe.config
+C:\Users\dawci\Desktop\MetodaGaussa\bin\Debug\MetodaGaussa.exe
+C:\Users\dawci\Desktop\MetodaGaussa\bin\Debug\MetodaGaussa.pdb
+C:\Users\dawci\Desktop\MetodaGaussa\obj\Debug\MetodaGaussa.csprojAssemblyReference.cache
+C:\Users\dawci\Desktop\MetodaGaussa\obj\Debug\MetodaGaussa.exe
+C:\Users\dawci\Desktop\MetodaGaussa\obj\Debug\MetodaGaussa.pdb

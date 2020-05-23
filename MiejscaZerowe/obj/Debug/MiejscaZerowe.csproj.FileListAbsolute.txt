@@ -1,0 +1,6 @@
+C:\Users\dawci\Desktop\MiejscaZerowe\obj\Debug\MiejscaZerowe.csprojAssemblyReference.cache
+C:\Users\dawci\Desktop\MiejscaZerowe\bin\Debug\MiejscaZerowe.exe.config
+C:\Users\dawci\Desktop\MiejscaZerowe\bin\Debug\MiejscaZerowe.exe
+C:\Users\dawci\Desktop\MiejscaZerowe\bin\Debug\MiejscaZerowe.pdb
+C:\Users\dawci\Desktop\MiejscaZerowe\obj\Debug\MiejscaZerowe.exe
+C:\Users\dawci\Desktop\MiejscaZerowe\obj\Debug\MiejscaZerowe.pdb
